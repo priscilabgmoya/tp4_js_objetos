@@ -16,7 +16,7 @@ class Auto{
         this._arranque = arranque;
     }
     get estadoArranqueAuto(){
-         return this._arranque;
+         return `El auto se encuentra ${this._arranque}`;
     }
 }
 
