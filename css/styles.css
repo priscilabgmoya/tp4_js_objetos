@@ -1,0 +1,14 @@
+#imagen_papel img ,#imagen_tijera img, #imagen_piedra img{
+    width: 150px;
+    height: 150px;
+    margin: 47px 41px;
+
+}
+#panel_pTp_usuario div, #panel_pTp_pc div {
+    border-radius: 200px ;
+    width: 250px;
+    height: 250px;
+    border: solid rgb(181, 46, 46) 2px;
+    text-align: center;
+    margin: auto auto;
+}
